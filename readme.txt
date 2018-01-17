@@ -8,3 +8,4 @@ test
 6666
 7777
 0000
+Creating a new branch is quick.
